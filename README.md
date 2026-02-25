@@ -47,3 +47,7 @@ graph TD
 
 ## 🤝 Contributing
 Please submit PRs focusing on extending cluster monitoring capabilities to ROCm/AMD architectures.
+
+## ?? Future Roadmap & Enhancements
+- **Spot-Instance Resiliency**
+- **Unified web interface replacing nvidia-smi that visualizes NVLink topology constraints**
